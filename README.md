@@ -1,3 +1,5 @@
-# [Enhancing 3D object Detection in Adverse Weather Condition using DINOv2 and Voxel-Based Feature Fusion
+# Enhancing 3D object Detection in Adverse Weather Condition using DINOv2 and Voxel-Based Feature Fusion 
+
+3D object detection in adverse weather conditions remains a significant challenge in autonomous driving. In this work, we propose a fusion approach that takes advantage of generalized and semantically rich DINOv2 visual features to enhance the robustness of 3D object detection under adverse weather conditions. Our method is designed to increase the 3D object detector accuracy in adverse conditions, such as, rain, snow and fog, which decrease the performance of the 3D object detector. The approach is evaluated using the KITTI dataset with the LISA augmentation method for different adverse weather scenarios. Through extensive experimentation, we are able to demonstrate that our model detection accuracy is improving in adverse weather conditions. We showed that our model performance is not decreasing so much as the level of the intensity of rain and snow increases. These results demonstrate the potential of integrating semantically rich DINOv2 visual features in the 3D detection framework to improve the perception framework of autonomous system in adverse weather conditions.
 
 
